@@ -1,0 +1,244 @@
+﻿ #topbar{
+            background-color:none;
+            width:1000px;
+            margin:0 auto;
+            height:40px
+
+        }
+        body{
+            margin:0;
+            padding:0
+        }
+        #logo{
+            width:100px;
+            margin-top:5px;
+            margin-right:8px;
+            float:left
+
+            
+        }
+        .topbar-section{
+            float:left;
+            border-left:1.5px grey solid;
+            
+            height:100%
+        }
+        #signin_logo {
+            width:30px;
+            margin-left:8px;
+            margin-top:6px;
+            float:left;
+        }
+        #signin-text{
+            font-weight:bold;
+            font-size:90%;
+            position:relative;
+            top:8px;
+            left:11px;
+            float:left;
+            padding-right:20px
+
+            
+            
+            
+            
+        }
+        .topbar-menu {
+            font-weight: bold;
+            padding-left: 10px;
+            padding-top: 8px;
+            padding-right: 10px;
+            height: 29px
+        }
+
+        #search-box{
+            background-color:gray;
+            border:none;
+            font-weight:bold;
+            position:relative;
+            top:-5px
+        }
+        #search_logo{
+            position:relative;
+            right:5px;
+            top:3px
+        }
+        .clear{
+            clear:both;
+        }
+        #menubar-container{
+            background-color:red;
+            height:70px;
+        }
+        #menubar{
+            width:1000px;
+            margin:0 auto;
+            
+
+
+        }
+        h1{
+            padding-top:12px;
+            font-size:40px;
+            color:white;
+
+        }
+        #menubar-2-container {
+            background-color:red;
+            width:100%
+            
+            
+        }
+        .menubar-2 {
+            width: 1000px;
+            margin:0 auto;
+            height:30px;
+        }
+        .menubar-2 a{
+            color:white;
+            text-decoration:none;
+            margin-top:5px;
+            padding:0 10px;
+            border-right:1px gray solid;
+            position:relative;
+            top:5px
+            
+        }
+        .menubar-2 a:hover{
+            text-decoration:underline
+        }
+        #page-container{
+            background-color:;
+            width:1300px;
+            margin:0 auto;
+            position:relative;
+            bottom:18px
+
+
+        }
+        h2{
+            font-weight:normal;
+            border-bottom:2px red solid;
+            width:115px
+            
+
+        }
+        #main-article-container{
+            background-color:none;
+            width:500px;
+            float:left;
+
+        }
+        #elon-text {
+            font-size: 220%;
+            font-family:freesans;
+        }
+        #elon-jpg{
+            width:500px;
+        }
+        #elon-text a {
+            text-decoration:none;
+            color: #7d7167
+        }
+        #elon-text a:hover{
+            
+            text-decoration:underline;
+            color:orangered;
+        }
+        #tech-text {
+            position: relative;
+            bottom: 20px;
+            color:#7d7167;
+            text-decoration:none;
+        }
+        #tech-text a:hover{
+          color:red;
+          text-decoration:underline;
+        }
+        #direct-text a {
+            color:#7d7167;
+            
+            text-decoration: none;
+        }
+        #direct-text a:hover{
+            color:red;
+            text-decoration:underline
+        }
+        #main-article{
+            float:left
+        }
+        #main-article2-container {
+            float:left;
+            width:800px;
+            height:none;
+            background-color:none;
+            margin-top:70px;
+            
+               
+        }
+        #article-verse{
+            float:left
+        }
+        #article-verse-container{
+            background-color:none;
+            float:left;
+            width:240px;
+            margin-left:15px;
+            margin-bottom:15px
+            
+                
+        }
+        #main-article2-container a {
+            text-decoration: none;
+            color:#7d7167;
+        }
+        #main-article2-container a:hover{
+            color:red;
+            text-decoration:underline
+        }
+        #clock-a2{
+            position:relative;
+            top:5px
+        }
+        #tiktok-img{
+            width:240px
+        }
+        #apple-img {
+            width: 200px
+        }
+        #tender-img{
+            width:238px
+        }
+        #swedish-img{
+            width:238px
+        }
+        #manchester-img{
+            width:240px;
+        }
+        #main-article-3{
+            background-color:aquamarine;
+            margin-top:125px
+            
+
+        }
+        #articl:3-containers{
+            background-color:green;
+
+        }
+        #main-article-3 a {
+            text-decoration: none;
+            color:#7d7167;
+
+        }
+        #main-article-3 a:hover{
+            color:red;
+            text-decoration:under
+        }
+        #main-article-3 img{
+            width:200px
+        }
+        .clock-2{
+            width:2px;
+
+        }
+    
